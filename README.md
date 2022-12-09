@@ -1,3 +1,11 @@
+### Para acessar: https://jokenpo-tau.vercel.app/
+Projeto desenvolvido durante o curso de FullStack da Kenzie Academy Brasil.
+Sistema simples de se jogar Pedra-Papel-Tesoura contra o CPU com jogafas aleatórias. Placar de cada jogador atualiza automáticamente.
+
+## Utilizado React e JavaScript.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
